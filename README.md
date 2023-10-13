@@ -1,5 +1,7 @@
-# goit-markup-hw-04
+# goit-markup-hw-05
 
-10/10/2023
+10/13/2023
 
-Finished styling index/portfolio page
+Finished applying the transitions on hover/focus elements
+Finished doing the overlay on portfolio page
+Positioning/styling the modal
